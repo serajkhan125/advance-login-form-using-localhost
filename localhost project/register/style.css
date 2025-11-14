@@ -1,0 +1,35 @@
+body {
+  background: #ffffff;
+}
+
+.register-card {
+  width: 380px;
+  border-radius: 15px;
+}
+
+.input-shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 16px;
+}
+
+.register-btn {
+  background: linear-gradient(45deg, #36d1dc, #5b86e5);
+  color: white;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 12px;
+}
+
+.login-link {
+  font-size: 14px;
+  color: #5b86e5;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.login-link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,40 @@
+
+
+body {
+    background: #ffffff;
+}
+
+.login-card {
+    width: 350px;
+    border-radius: 15px;
+}
+
+
+.input-shadow {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 16px;
+}
+
+
+.login-btn {
+    background: linear-gradient(#ff6a00, #ee0979);
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px;
+}
+
+.forgot-link {
+    font-size: 14px;
+    color: #d36098;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+.forgot-link:hover {
+    text-decoration: underline;
+}

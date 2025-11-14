@@ -1,0 +1,15 @@
+#imed{
+    height: 60vh;
+    width: 100%;
+}
+#imed1{
+    height: 27vh;
+    width: 100%;
+}
+.bac{
+    background-image: url(IMG/images\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 80vh;
+}
